@@ -1,0 +1,75 @@
+{
+  "stack11": [
+    "greenPlate.png",
+    "redHat.png",
+    "yellowPlate.png"
+  ],
+  "stack12": [
+    "redPlate.png",
+    "greenHat.png",
+    "greenPlate.png",
+    "brownPlate.png",
+    "brownHat.png",
+    "redPlate.png",
+    "cyanHat.png",
+    "brownHat.png",
+    "redPlate.png"
+  ],
+  "stack21": [
+    "redHat.png",
+    "redHat.png",
+    "brownPlate.png",
+    "redHat.png",
+    "greenHat.png",
+    "cyanPlate.png",
+    "yellowHat.png",
+    "greenPlate.png",
+    "cyanPlate.png",
+    "greenPlate.png"
+  ],
+  "stack22": [
+    "brownPlate.png",
+    "yellowPlate.png",
+    "redPlate.png"
+  ],
+  "positionStack11": [
+    400,
+    390,
+    380
+  ],
+  "positionStack12": [
+    355,
+    345,
+    335,
+    325,
+    315,
+    305,
+    295,
+    285,
+    275
+  ],
+  "positionStack21": [
+    355,
+    345,
+    335,
+    325,
+    315,
+    305,
+    295,
+    285,
+    275,
+    265
+  ],
+  "positionStack22": [
+    400,
+    390,
+    380
+  ],
+  "deltatime": 71775960406,
+  "score1": {
+    "matchScore": 0
+  },
+  "score2": {
+    "matchScore": 0
+  }
+}
